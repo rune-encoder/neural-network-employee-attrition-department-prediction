@@ -1,4 +1,4 @@
-# Neural Network Challenge 2  
+# Multi-Task Neural Network for Employee Attrition & Department Prediction
 
 ## Description  
 This project implements a multi-task neural network model to predict employee **Attrition** (Yes/No) and their **Department** (Human Resources, Research & Development, Sales). The model incorporates advanced techniques like shared layers, layer normalization, dropout regularization to achieve robust predictions.  
